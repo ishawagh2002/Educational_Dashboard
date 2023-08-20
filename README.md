@@ -19,3 +19,4 @@
 ![SSMS11](https://github.com/ishawagh2002/Educational_Dashboard/assets/108747396/6b0ea998-9ce2-403f-9208-3285a4f82abf)
 ![SSMS12](https://github.com/ishawagh2002/Educational_Dashboard/assets/108747396/57ad66ea-59c6-4f1a-8956-a4fd82718962)
 [Educational dashboard.pdf](https://github.com/ishawagh2002/Educational_Dashboard/files/12388627/Educational.dashboard.pdf)
+![Dashboard](https://github.com/ishawagh2002/Educational_Dashboard/assets/108747396/3ff40d53-4894-4d9c-aad4-854fb6c672e9)
